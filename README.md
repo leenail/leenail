@@ -2,8 +2,9 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=电子信息工程+%7C+暨南大学;强化学习+%7C+机器人视觉;创业者+%7C+技术爱好者)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=👋+Hi%2C+I'm+李书豪;🤖+AI+%26+Robotics+Enthusiast;🎮+Smart+Tabletop+Game+Creator" alt="Typing SVG" />
   
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leenail&bg_color=0d1117&color=00f5ff&line=00f5ff&point=00f5ff&area=true&hide_border=true" />
   
 </div>
 
