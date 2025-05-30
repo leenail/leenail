@@ -4,7 +4,6 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=电子信息工程+%7C+暨南大学;强化学习+%7C+机器人视觉;创业者+%7C+技术爱好者)](https://git.io/typing-svg)
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leenail&theme=radical" alt="GitHub Streak" />
   
 </div>
 
@@ -67,17 +66,6 @@
   - 结合硬件与软件的创新桌游体验
   - 使用嵌入式系统实现交互功能
 
-## 📊 GitHub统计
-
-<div align="center">
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leenail&show_icons=true&theme=radical)
-  
-
-  
-
-  
-</div>
 
 ## 🎯 当前学习重点
 
