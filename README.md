@@ -2,11 +2,12 @@
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:ffff1c&height=200&section=header&text=李书豪%20%7C%20Lee%20Shuhao&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%7C%20Robotics%20%7C%20创业者&descAlignY=65&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:ffff1c&height=200&section=header&text=李书豪%20%7C%20Li%20Shuhao&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%7C%20Robotics%20%7C%20创业者&descAlignY=65&descAlign=50" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=🤖+AI+%26+Robotics+Enthusiast;🎮+智能桌游硬件+创业者;🏆+SSR战队创始人" alt="Typing SVG" />
 
 </div>
+
 ## 🚀 关于我
 
 🎓 **暨南大学** 电子信息工程专业大三学生（目前gap year）  
