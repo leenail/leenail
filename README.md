@@ -12,7 +12,7 @@
 
 🎓 **暨南大学** 电子信息工程专业大三学生（目前gap year）  
 🏢 **深圳科创学院** 创业中 - 专注于COC/DND智能桌游硬件  
-👁️ **暨南大学SSR战队** 视觉组负责人  
+👁️ **暨南大学SSR战队** 战队创始人 视觉组负责人  
 🔬 热衷于 **强化学习** 和 **机器人视觉** 研究  
 
 ## 💻 技术栈
@@ -81,21 +81,34 @@
 
 ## 🎯 当前学习重点
 
-```python
-current_focus = {
-    "强化学习": ["Deep Q-Learning", "Policy Gradient", "Actor-Critic"],
-    "机器人视觉": ["Computer Vision", "SLAM", "Object Detection"],
-    "VLA技术": ["Vision-Language-Action", "Multimodal Learning"],
-    "硬件开发": ["嵌入式系统", "传感器融合", "实时控制"]
-}
-```
+<div align="center">
+
+### 🧠 强化学习
+![Deep Q-Learning](https://img.shields.io/badge/Deep_Q--Learning-FF6B6B?style=flat-square&logo=python&logoColor=white)
+![Policy Gradient](https://img.shields.io/badge/Policy_Gradient-4ECDC4?style=flat-square&logo=python&logoColor=white)
+![Actor-Critic](https://img.shields.io/badge/Actor--Critic-45B7D1?style=flat-square&logo=python&logoColor=white)
+
+### 👁️ 机器人视觉
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-96CEB4?style=flat-square&logo=opencv&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM-FFEAA7?style=flat-square&logo=ros&logoColor=black)
+![Object Detection](https://img.shields.io/badge/Object_Detection-DDA0DD?style=flat-square&logo=tensorflow&logoColor=white)
+
+### 🤖 VLA技术
+![Vision-Language-Action](https://img.shields.io/badge/Vision--Language--Action-FF7675?style=flat-square&logo=pytorch&logoColor=white)
+![Multimodal Learning](https://img.shields.io/badge/Multimodal_Learning-74B9FF?style=flat-square&logo=tensorflow&logoColor=white)
+
+### ⚙️ 硬件开发
+![嵌入式系统](https://img.shields.io/badge/嵌入式系统-A29BFE?style=flat-square&logo=arduino&logoColor=white)
+![传感器融合](https://img.shields.io/badge/传感器融合-6C5CE7?style=flat-square&logo=raspberry-pi&logoColor=white)
+![实时控制](https://img.shields.io/badge/实时控制-FD79A8?style=flat-square&logo=c&logoColor=white)
+
+</div>
 
 ## 🌟 兴趣爱好
 
 - 🎲 桌游设计与开发
 - 🤖 机器人技术探索
-- 🎯 竞技编程与算法优化
-- 📚 开源项目贡献
+
 
 ## 🏆 成就与认证
 
@@ -114,17 +127,3 @@ current_focus = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leenail)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1764915977@qq.com)
 
-
-</div>
-
----
-
-<div align="center">
-  
-  **🎯 ""**
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=leenail&color=blue&style=flat)
-  
-  <img src="https://github.com/leenail/leenail/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-  
-</div>
