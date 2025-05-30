@@ -73,9 +73,9 @@
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leenail&show_icons=true&theme=radical)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leenail&layout=compact&theme=radical)
+
   
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=leenail&theme=radical)
+
   
 </div>
 
