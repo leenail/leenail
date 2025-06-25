@@ -74,7 +74,7 @@
 
 ### 🧠 强化学习
 ![Deep Q-Learning](https://img.shields.io/badge/Deep_Q--Learning-FF6B6B?style=flat-square&logo=python&logoColor=white)
-![Policy Gradient](https://img.shields.io/badge/Policy_Gradient-4ECDC4?style=flat-square&logo=python&logoColor=white)
+![PPO](https://img.shields.io/badge/PPO-4ECDC4?style=flat-square&logo=python&logoColor=white)
 ![Actor-Critic](https://img.shields.io/badge/Actor--Critic-45B7D1?style=flat-square&logo=python&logoColor=white)
 
 ### 👁️ 机器人视觉
